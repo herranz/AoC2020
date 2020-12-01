@@ -2,8 +2,10 @@
 
 
 <p align="center" width="100%">
-    # AoC2020
     <img width="33%" src="AoC.jpeg"> 
+</p>
+<p align="center" width="100%">
+    # AoC2020 #
 </p>
 
 
