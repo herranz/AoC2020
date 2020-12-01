@@ -1,7 +1,8 @@
-# AoC2020
 
-**Align center:**
+
+
 <p align="center" width="100%">
+    # AoC2020
     <img width="33%" src="AoC.jpeg"> 
 </p>
 
