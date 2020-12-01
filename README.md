@@ -5,7 +5,7 @@
     <img width="33%" src="AoC.jpeg"> 
 </p>
 
-    # AoC2020 #
+# AoC2020 
 
 
 
