@@ -2,7 +2,7 @@
 
 **Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="![aoC](AoC.jpeg)"> 
+    <img width="33%" src="!AoC.jpeg"> 
 </p>
 
 
